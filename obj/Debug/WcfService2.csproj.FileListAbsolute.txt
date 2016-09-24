@@ -1,0 +1,6 @@
+c:\users\olitek\documents\visual studio 2015\Projects\WcfService2\WcfService2\bin\WcfService2.dll.config
+c:\users\olitek\documents\visual studio 2015\Projects\WcfService2\WcfService2\bin\WcfService2.dll
+c:\users\olitek\documents\visual studio 2015\Projects\WcfService2\WcfService2\bin\WcfService2.pdb
+c:\users\olitek\documents\visual studio 2015\Projects\WcfService2\WcfService2\obj\Debug\WcfService2.dll
+c:\users\olitek\documents\visual studio 2015\Projects\WcfService2\WcfService2\obj\Debug\WcfService2.pdb
+C:\Users\olitek\Documents\Visual Studio 2015\Projects\WcfService2\WcfService2\obj\Debug\WcfService2.csprojResolveAssemblyReference.cache
